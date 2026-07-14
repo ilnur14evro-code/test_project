@@ -47,7 +47,7 @@ Provides a task for the framework.
 Responsible for controlling execution.
 
 Responsibilities:
-- analyze the user request;
+- analyze the user request before selecting a workflow;
 - select the appropriate workflow;
 - start the workflow;
 - decide what happens after each role execution;
@@ -83,6 +83,7 @@ It does not modify the task execution.
 - The architecture is task-independent.
 - Every component has a single responsibility.
 - Roles never control execution.
+- Control always returns to the ORCHESTRATOR after each role execution.
 - The ORCHESTRATOR controls the execution flow.
 - WORKFLOW defines process, not content.
 - OUTPUT_FORMAT is applied only to the final result.
