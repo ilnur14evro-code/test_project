@@ -87,3 +87,61 @@ It does not modify the task execution.
 - The ORCHESTRATOR controls the execution flow.
 - WORKFLOW defines process, not content.
 - OUTPUT_FORMAT is applied only to the final result.
+
+---
+
+## Repository Structure
+
+### Core
+- SYSTEM.md
+- ORCHESTRATOR.md
+- OUTPUT_FORMAT.md
+
+### Templates
+- ROLE_TEMPLATE.md
+- WORKFLOW_TEMPLATE.md
+
+### Roles
+- ROLE_PLANNER.md
+- ROLE_CRITIC.md
+- ROLE_CODER.md
+- ROLE_REVIEWER.md
+
+### Workflows
+- WORKFLOW_CREATE_ARTICLE.md
+- WORKFLOW_SOLVE_BUG.md
+- WORKFLOW_SUMMARIZE_TEXT.md
+
+### Documentation
+- README.md
+- ARCHITECTURE_LOCK.md
+- DESIGN_DECISIONS.md
+- CHANGELOG.md
+
+---
+
+## File Ownership
+
+### Core Implementer
+- SYSTEM.md
+- ORCHESTRATOR.md
+- OUTPUT_FORMAT.md
+
+### Template Implementer
+- ROLE_TEMPLATE.md
+- WORKFLOW_TEMPLATE.md
+
+### Role Implementer
+- ROLE_*.md
+
+### Workflow Implementer
+- WORKFLOW_*.md
+
+### Documentation Writer
+- README.md
+- ARCHITECTURE_LOCK.md
+- DESIGN_DECISIONS.md
+- CHANGELOG.md
+
+### Repository Reviewer
+- Entire repository
