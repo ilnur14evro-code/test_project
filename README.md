@@ -8,3 +8,9 @@ The file `ARCHITECTURE_LOCK.md` is the frozen architecture baseline for this pro
 - It must not be modified during normal development.
 - All framework components must conform to this architecture.
 - If an implementation conflict is discovered, the implementation should be reviewed first. The architecture should only be reconsidered if the conflict proves that the architecture cannot be implemented.
+
+## Language Policy
+
+- All repository files must be written in English.
+- All communication with the user must be in Russian.
+- Architectural decisions are discussed in Russian before being documented in English.
