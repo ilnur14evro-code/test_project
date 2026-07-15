@@ -2,7 +2,7 @@
 
 ## Architecture Policy
 
-The file `ARCHITECTURE_LOCK.md` is the frozen architecture baseline for this project.
+The file `ARCHITECTURE.md` is the frozen architecture baseline for this project.
 
 - It is the single source of truth for the framework architecture.
 - It must not be modified during normal development.
