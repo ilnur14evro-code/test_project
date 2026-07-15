@@ -1,8 +1,12 @@
 # ROLE_TEMPLATE
 
+## Role Name
+
+<ROLE_NAME>
+
 ## Purpose
 
-Define a reusable template for any role used by the framework.
+<ROLE_PURPOSE>
 
 ## Responsibilities
 
@@ -16,17 +20,18 @@ Define a reusable template for any role used by the framework.
 
 - Task from the ORCHESTRATOR.
 - Required context.
+- <ROLE_SPECIFIC_INPUTS>
 
 ## Process
 
 1. Analyze the assigned task.
 2. Perform only the assigned responsibility.
-3. Produce a complete result.
+3. Produce the role result.
 4. Return the result to the ORCHESTRATOR.
 
 ## Output
 
-Provide only the result of the assigned responsibility.
+<ROLE_OUTPUT>
 
 ## Constraints
 
@@ -35,3 +40,8 @@ Provide only the result of the assigned responsibility.
 - No workflow decisions.
 - No output formatting beyond the role result.
 - No assumptions outside the provided context.
+
+## Usage
+
+Use this template as the base for every ROLE_*.md implementation.
+Replace all placeholders with role-specific content while preserving the architecture and constraints.
