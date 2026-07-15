@@ -16,4 +16,4 @@ Produce a complete article that satisfies the requested topic and requirements.
 
 ## Completion Criteria
 
-The workflow has completed all defined role executions.
+The workflow completes when the REVIEWER confirms that the article satisfies the requested topic and requirements, and the ORCHESTRATOR decides to finish execution.
