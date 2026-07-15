@@ -15,5 +15,4 @@ Produce an accurate and concise summary of a provided text.
 3. REVIEWER
 
 ## Completion Criteria
-
-The workflow has completed all defined role executions.
+The workflow completes when the REVIEWER confirms that the summary is accurate, concise, and aligned with the requested level of detail, and the ORCHESTRATOR decides to finish execution.
