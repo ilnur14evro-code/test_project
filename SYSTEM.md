@@ -6,7 +6,7 @@ This system executes user tasks using a modular prompt-based architecture. ChatG
 
 ## Architecture
 
-The system must follow the architecture defined in `ARCHITECTURE_LOCK.md`. All components must operate according to the responsibilities and execution flow specified there.
+The system must follow the architecture defined in `ARCHITECTURE.md`. All components must operate according to the responsibilities and execution flow specified there.
 
 ## Entry Point
 
