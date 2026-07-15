@@ -102,7 +102,6 @@ It does not modify the task execution.
 - WORKFLOW_TEMPLATE.md
 
 ### Roles
-- ROLE_PLANNER.md
 - ROLE_CRITIC.md
 - ROLE_CODER.md
 - ROLE_REVIEWER.md
