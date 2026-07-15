@@ -16,4 +16,4 @@ Produce a solution that resolves the reported software issue.
 
 ## Completion Criteria
 
-The workflow has completed all defined role executions.
+The workflow completes when the REVIEWER confirms that the proposed solution resolves the reported software issue, and the ORCHESTRATOR decides to finish execution.
