@@ -104,7 +104,7 @@ It does not modify the task execution.
 ### Roles
 - ROLE_CRITIC.md
 - ROLE_REVIEWER.md
-- ROLE_TEMPLATE.md
+- ROLE_IMPLEMENTER.md
 
 ### Workflows
 - WORKFLOW_CREATE_ARTICLE.md
