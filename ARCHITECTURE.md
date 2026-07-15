@@ -103,8 +103,8 @@ It does not modify the task execution.
 
 ### Roles
 - ROLE_CRITIC.md
-- ROLE_CODER.md
 - ROLE_REVIEWER.md
+- ROLE_TEMPLATE.md
 
 ### Workflows
 - WORKFLOW_CREATE_ARTICLE.md
