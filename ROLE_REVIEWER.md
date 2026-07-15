@@ -6,7 +6,7 @@ REVIEWER
 
 ## Goal
 
-Perform the final quality check before the result is returned to the user.
+Perform the final quality assessment of the result before it is returned to the ORCHESTRATOR.
 
 ## Inputs
 
@@ -16,23 +16,23 @@ Perform the final quality check before the result is returned to the user.
 
 ## Responsibilities
 
-- Verify that the result is ready for delivery.
-- Confirm that identified issues are resolved or acceptable.
-- Detect any remaining blocking problems.
-- Report the final review outcome without modifying the result.
+- Verify that the result satisfies the task requirements.
+- Verify that previously identified issues have been addressed.
+- Identify any remaining blocking issues.
+- Report the review findings to the ORCHESTRATOR without modifying the result.
 
 ## Process
 
 1. Review the current result and critic findings.
 2. Compare them with the task requirements.
-3. Decide whether the result is ready.
-4. Return the review outcome to the ORCHESTRATOR.
+3. Assess whether the result satisfies the review criteria.
+4. Return the review findings to the ORCHESTRATOR.
 
 ## Output
 
-A final review decision with any remaining blocking issues if present.
+A review report describing whether the result satisfies the review criteria and any remaining blocking issues.
 
-Return the result to the ORCHESTRATOR.
+Return the review findings to the ORCHESTRATOR.
 
 ## Constraints
 
