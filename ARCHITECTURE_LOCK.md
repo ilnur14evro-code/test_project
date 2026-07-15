@@ -102,8 +102,9 @@ It does not modify the task execution.
 - WORKFLOW_TEMPLATE.md
 
 ### Roles
+- ROLE_PLANNER.md
 - ROLE_CRITIC.md
-- ROLE_IMPLEMENTER.md
+- ROLE_CODER.md
 - ROLE_REVIEWER.md
 
 ### Workflows
@@ -121,22 +122,22 @@ It does not modify the task execution.
 
 ## File Ownership
 
-### Core Implementer
+### Core
 - SYSTEM.md
 - ORCHESTRATOR.md
 - OUTPUT_FORMAT.md
 
-### Template Implementer
+### Templates
 - ROLE_TEMPLATE.md
 - WORKFLOW_TEMPLATE.md
 
-### Role Implementer
+### Roles
 - ROLE_*.md
 
-### Workflow Implementer
+### Workflows
 - WORKFLOW_*.md
 
-### Documentation Writer
+### Documentation
 - README.md
 - ARCHITECTURE_LOCK.md
 - DESIGN_DECISIONS.md
